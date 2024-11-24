@@ -16,8 +16,12 @@ In this part 1, the question that came to my mind was:
 
 # Monophonic  Player
 
-Not much to say. The signal is engraved either vertically or horizontally .
-The first phonograph recordings were recorded vertically.
+We are located at the end of the 19th century.
+
+Not much to say. The signal is engraved either vertically or horizontally.
+
+The first phonograph recordings were recorded vertically.(Edison Phonograph 1877)
+
 Later recordings (including most 78 rpm records, and all mono LPs and 45s) were recorded laterally.
 
 ![example](./images/mono1r.png)
@@ -53,7 +57,7 @@ The matrix 4-channel quadraphonic sound system for vinyl LP records was introduc
 
 In Columbo S05E03 (Identity Crisis, 1975) :  Peter Falk  is listening to Patrick McGoohans "audio" system and compliements him on the quality :
 
-"Yes", says Patrick McGoohans "it's Quadraphonic".
+"Yes" says Patrick McGoohans to Peter Falk, "it's Quadraphonic".
 
 At that time, quadraphonic vinyl records were part of the future.
 
