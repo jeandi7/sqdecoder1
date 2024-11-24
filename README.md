@@ -20,7 +20,7 @@ Not much to say. The signal is engraved either vertically or horizontally .
 The first phonograph recordings were recorded vertically.
 Later recordings (including most 78 rpm records, and all mono LPs and 45s) were recorded laterally.
 
-![example](images\mono1r.png)
+![example](./images/mono1r.png)
 
 *(a) Laterally modulation (b) Vertically modulation*
 
@@ -33,7 +33,7 @@ With a V-shaped groove
 - the right wall of the groove carries the right channel.
 
 
-![example](images\stereo1br.png)
+![example](./images/stereo1br.png)
 
 *(a) left channel (b) right channel*
 
@@ -45,7 +45,7 @@ Remark :
 
 # Quadriphonic  Player  
 
-![example](images\SQsymbol.png)
+![example](./images/SQsymbol.png)
 
 *SQ Quadriphonic logo for Stereo Quadraphonic : 4-2-4 format*
 
@@ -57,7 +57,7 @@ In Columbo S05E03 (Identity Crisis, 1975) :  Peter Falk  is listening to Patrick
 
 With a V-shaped groove, SQ system needs 2 more stylus motion than the stereo system
 
-![example](images\quadri1Ar.png)
+![example](./images/quadri1Ar.png)
 
 *(a) clock wise motion for left back  (b) anti-clock wise motion for right back*
 
@@ -74,7 +74,7 @@ It was an early attempt at creating a multi-channel audio experience to envelop 
 
 To summarize the various stylus modulations on the following diagram:
 
-![stylusMotion](images\stylusMotion2.png)
+![stylusMotion](./images/stylusMotion2.png)
 
 *stylus modulation*
 
@@ -82,7 +82,7 @@ These modulations can be also represented using the Poincaré sphere.
 All modulations are on the surface of the sphere.
 The six orthogonal stylus modulations are shown as follows:
 
-![stylusMotion](images\Poincare4R.png)
+![stylusMotion](./images/Poincare4R.png)
 
 *stylus modulation on Poincare Sphere*
 
@@ -114,12 +114,12 @@ rb := alpha*LT - j*alpha*RT = alpha * (LT - j*RT)
 
 ```
 
-![stylusMotion](images\Poincare5R.png)
+![stylusMotion](./images/Poincare5R.png)
 
 *SQ decoding on Poincare Sphere*
 
 
-![example](images\turntable4.png)
+![example](./images/turntable4.png)
 
 *SQ System (made with Archi@)*
 
@@ -130,7 +130,7 @@ With the SQ system, there is no need for a special cartridge
 - a standard stereo cartridge is sufficient.
 - the requirement for a stereo cartridge to play SQ Quadraphonic records is a high mechanical compliance stylus to accurately track the groove modulations.
 
-![example](images\Cartdrige.png)
+![example](./images/Cartdrige.png)
 
 *Electrodynamic stereo phono-cartridge principle*
 
