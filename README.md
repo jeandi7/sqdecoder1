@@ -53,7 +53,9 @@ The matrix 4-channel quadraphonic sound system for vinyl LP records was introduc
 
 In Columbo S05E03 (Identity Crisis, 1975) :  Peter Falk  is listening to Patrick McGoohans "audio" system and compliements him on the quality :
 
-"Yes", says Patrick "it's Quadraphonic".
+"Yes", says Patrick McGoohans "it's Quadraphonic".
+
+At that time, quadraphonic vinyl records were part of the future.
 
 With a V-shaped groove, SQ system needs 2 more stylus motion than the stereo system
 
