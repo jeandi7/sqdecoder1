@@ -75,12 +75,12 @@ For each left and right channel, the tensions applied to the engraver stylus cau
 
 The rear channels, in circular modulations, tend to give the engraver a circular movement in a plane perpendicular to the groove. 
 
-While the engraver vibrates, the groove moves under the stylus.
+While the engraver vibrates, the groove moves under the stylus :
 - Thus, a helical engraving is inscribed.
 - More precisely, this engraving is the resultant of the four modulations from the front and rear channels.
 
 When reading the disc, the opposite process occurs. 
-- The helical engraving is read by the reading stylus.
+- The helical engraving is read by the reading stylus :
 
 However, due to competing formats, high costs, and a lack of consumer adoption, the popularity of quadraphonic sound declined by the late 1970s, and production largely ceased by the early 1980s.
 
