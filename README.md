@@ -107,6 +107,8 @@ The six orthogonal stylus modulations are shown as follows:
 
 For a Poincaré sphere, orthogonal modulations are located at opposite poles from each other.
 
+SQ quadraphonic system uses 4 orthogonal stylus modulations (left and right channel motion, clock wise and anti clock-wise motion)
+
 # The digital design 
 
 ```
