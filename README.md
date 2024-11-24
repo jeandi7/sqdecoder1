@@ -61,13 +61,29 @@ In Columbo S05E03 (Identity Crisis, 1975) :  Peter Falk  is listening to Patrick
 
 At that time, quadraphonic vinyl records were part of the future.
 
-With a V-shaped groove, SQ system needs 2 more stylus motion than the stereo system
+With a V-shaped groove, SQ system needs 2 more stylus motion than the stereo system.
 
 ![example](./images/quadri1Ar.png)
 
 *(a) clock wise motion for left back  (b) anti-clock wise motion for right back*
 
 *left front and right front still remains as in the stereo player*
+
+When engraving in wax, the two front channels communicate to this engraver exactly the same movements as in stereophony. 
+
+For each left and right channel, the tensions applied to the engraver stylus cause it to move back and forth perpendicular to the side of the groove. 
+
+The rear channels, in circular modulations, tend to give the engraver a circular movement in a plane perpendicular to the groove. 
+
+While the engraver vibrates, the groove moves under the stylus.
+
+Thus, a helical engraving is inscribed. 
+
+More precisely, this engraving is the resultant of the four modulations from the front and rear channels.
+
+When reading the disc, the opposite process occurs. 
+
+The helical engraving is read by the reading stylus.
 
 However, due to competing formats, high costs, and a lack of consumer adoption, the popularity of quadraphonic sound declined by the late 1970s, and production largely ceased by the early 1980s.
 
